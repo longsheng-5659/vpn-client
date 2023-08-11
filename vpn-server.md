@@ -1,4 +1,4 @@
-# 服务器连接信息(完全免费,不定期更新)
+# 服务器连接信息
 ## ios/mac 的 Cisco IpSec  连接信息
 - Server Ip: 64.176.53.36
 - IPsec PSK: iJFTACYsE8vKBrZHwo94
